@@ -1,7 +1,7 @@
 import requests #req thru pythons generic libr, alternativley we could use "import openai" to req direclty from opeanai's lib
 
 api_endpoint = "https://api.openai.com/v1/completions"
-api_key = "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"
+api_key = "API_KEY_GOES_HERE"
 
 request_headers = {
     "Content-Type": "application/json", 
